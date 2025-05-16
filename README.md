@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmokarb" alt="abdallahmokarb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdallahmokarb" target="blank"><img src="https://img.shields.io/twitter/follow/abdallahmokarb?logo=twitter&style=for-the-badge" alt="abdallahmokarb" /></a> </p>
 
 - 🌱 Skills:  REACT JS / NEXT JS / Nodejs / Express Js
 - 🌱 Now :  focusing on studying .NET as a full-stack .NET dev program in ITI
