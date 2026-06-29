@@ -1,5 +1,5 @@
 # Abdallah Mokarb
-Full-Stack Web Developer** / Full-Stack .Net Developer**
+Full-Stack Web Developer / Full-Stack .Net Developer
 
 ---
 
